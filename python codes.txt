@@ -1,0 +1,8 @@
+
+print ('Hello World')
+print("addition of :", (100+600))
+print("comparison result :",(100>700))
+print("comparing :", (500==500))
+print("comparing :", (500>=500))
+print("comparing :", (500<=500))
+print("Area of circle :", (3.14*4*4))
